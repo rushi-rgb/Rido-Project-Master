@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "724629537130",
+    "project_id": "auto-bliss-c4926",
+    "storage_bucket": "auto-bliss-c4926.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724629537130:android:2f67208c2d5d9b79216513",
+        "android_client_info": {
+          "package_name": "com.example.privatetransportservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724629537130-1onvtrh53vrkbhu8tum13la5vcli2jg4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.privatetransportservice",
+            "certificate_hash": "58a4b437f99d33f76f7cdfcbc1e4983982239ce4"
+          }
+        },
+        {
+          "client_id": "724629537130-7lb6mkme7ev09rmipmr93ns47q8r54u1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC3ESKEh5BDJdLCn06RNCzZ5EmsoMyuCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724629537130-7lb6mkme7ev09rmipmr93ns47q8r54u1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
